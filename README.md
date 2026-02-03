@@ -10,7 +10,7 @@ Bastion P2P solves the "Fiat Trust Gap" for autonomous agents. By using the **Ba
 ## 🧱 Powered by Bastion Protocol
 This solution is built on top of the **Bastion Protocol**, a programmable security layer for AI agents.
 - **Website:** https://bastion.legatia.solutions/
-- **GitHub:** https://github.com/Legatia/A2A
+- **GitHub:** https://github.com/Legatia/Bastion
 
 ## 📁 Project Structure
 - `/programs`: Solana Anchor smart contracts.
