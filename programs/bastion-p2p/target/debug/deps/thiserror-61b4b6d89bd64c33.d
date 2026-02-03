@@ -1,0 +1,14 @@
+/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/debug/deps/thiserror-61b4b6d89bd64c33.d: /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/debug/build/thiserror-fedb118ba83ad410/out/private.rs
+
+/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/debug/deps/libthiserror-61b4b6d89bd64c33.rlib: /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/debug/build/thiserror-fedb118ba83ad410/out/private.rs
+
+/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/debug/deps/libthiserror-61b4b6d89bd64c33.rmeta: /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/debug/build/thiserror-fedb118ba83ad410/out/private.rs
+
+/Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs:
+/Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs:
+/Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs:
+/Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs:
+/Users/zhang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs:
+/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/debug/build/thiserror-fedb118ba83ad410/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/debug/build/thiserror-fedb118ba83ad410/out

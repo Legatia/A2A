@@ -1,0 +1,12 @@
+[2026-02-03T18:16:16.950853000Z INFO  solana_test_validator] agave-validator 3.0.13 (src:90098d26; feat:3604001754, client:Agave)
+[2026-02-03T18:16:16.951121000Z INFO  solana_test_validator] Starting validator with: ArgsOs {
+        inner: [
+            "solana-test-validator",
+            "--reset",
+            "--ledger",
+            "/Users/zhang/Desktop/Bastion-P2P-Ramp/.anchor/test-ledger",
+        ],
+    }
+[2026-02-03T18:16:16.951136000Z WARN  solana_perf] CUDA is disabled
+[2026-02-03T18:16:16.953943000Z ERROR solana_faucet::faucet] Faucet failed to start: Address already in use (os error 48)
+[2026-02-03T18:16:16.953968000Z INFO  solana_metrics::metrics] metrics disabled: environment variable not found

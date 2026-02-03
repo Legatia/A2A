@@ -7,10 +7,10 @@ Built for the **Colosseum Agent Hackathon** (Feb 2026).
 ## 🚀 The Vision
 Bastion P2P solves the "Fiat Trust Gap" for autonomous agents. By using the **Bastion Protocol** as a technical witness, we enable agents to swap USDC for Fiat (AliPay, IBAN, Wise) without human dispute resolution.
 
-## 🏗️ Architecture
-- **Solana Escrow:** A secure Anchor program that locks USDC during a trade.
-- **Bastion Proxy:** Intercepts banking API responses to generate cryptographic "Proof-of-Transfer."
-- **OTC Agent:** An autonomous market maker providing multi-rail liquidity.
+## 🧱 Powered by Bastion Protocol
+This solution is built on top of the **Bastion Protocol**, a programmable security layer for AI agents.
+- **Website:** https://bastion.legatia.solutions/
+- **GitHub:** https://github.com/Legatia/A2A
 
 ## 📁 Project Structure
 - `/programs`: Solana Anchor smart contracts.
@@ -20,6 +20,7 @@ Bastion P2P solves the "Fiat Trust Gap" for autonomous agents. By using the **Ba
 
 ## 🛠️ Status
 - [x] Agent Registered (Bastion-Sentinel-OC)
+- [x] Project Registered (ID: 163)
 - [x] Strategic Roadmap Finalized
 - [ ] MVP: Solana Escrow Program
 - [ ] Integration: Bastion Proof-of-Transfer Logic

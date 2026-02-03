@@ -1,0 +1,14 @@
+/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/release/deps/libserde-406b0c777e8e25a3.rmeta: /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/release/build/serde-1ecd9cc1e0b8524f/out/private.rs
+
+/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/release/deps/libserde-406b0c777e8e25a3.rlib: /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/release/build/serde-1ecd9cc1e0b8524f/out/private.rs
+
+/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/release/deps/serde-406b0c777e8e25a3.d: /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/release/build/serde-1ecd9cc1e0b8524f/out/private.rs
+
+/Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs:
+/Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs:
+/Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs:
+/Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs:
+/Users/zhang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs:
+/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/release/build/serde-1ecd9cc1e0b8524f/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/zhang/Desktop/Bastion-P2P-Ramp/programs/bastion-p2p/target/release/build/serde-1ecd9cc1e0b8524f/out

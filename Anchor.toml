@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-bastion_p2p = "BstnP2P111111111111111111111111111111111111"
+bastion_p2p = "Eg9p74Ue3eMDiK86u3LzYg7GLqpBqHjCrrdvd4dkVuMv"
 
 [registry]
 url = "https://api.apr.dev"
@@ -15,4 +15,7 @@ cluster = "Localnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
-test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+test = "npx ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+
+[test]
+startup_wait = 30000
